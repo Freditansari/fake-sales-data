@@ -1,0 +1,11 @@
+{
+  "sales": [
+    100000, 120000,98000, 97000,110000, 140000, 110000,120000, 87000, 99000,99900, 111000
+  ],
+  "months": [
+    "January", "February", "March", "April", "May", "June", "July", "August", "Sept", "Oct", "Nov", "Dec"
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
